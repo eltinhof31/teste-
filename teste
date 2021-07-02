@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="teste" tvg-name="teste" tvg-logo="COLAR AQUI O LINK DA IMAGEM DO CANAL" group-title="teste",teste 
 http://xcui.vitvabc.xyz:8880/live/287994003300/287994003300/16765.ts
 
+#EXTINF:-1 tvg-id="teste1" tvg-name="teste1" tvg-logo="COLAR AQUI O LINK DA IMAGEM DO CANAL" group-title="teste1",teste 
+http://xcui.vitvabc.xyz:8880/live/287994003397/287994003397/16692.ts
+
 
 
 
