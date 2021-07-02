@@ -5,7 +5,7 @@
 http://svrhost.club/live/ip1509/244255/3475.ts
 
 #EXTINF:-1 tvg-id="teste1" tvg-name="teste1" tvg-logo="COLAR AQUI O LINK DA IMAGEM DO CANAL" group-title="teste1",teste
-http://svrhost.club/player_api.php?username=ip1509&password=244255&action=get_short_epg&stream_id=3223&limit=12
+http://45.58.186.131:24422/live/pt_TDMwn2WGBHS0CUpsbzhNfuo5_480p.ts
 
 
 
