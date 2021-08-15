@@ -1,12 +1,145 @@
-#EXTM3U
-#EXTINF:0 group-title="canail teste "
 
-#EXTINF:-1 tvg-id="teste" tvg-name="teste" tvg-logo="COLAR AQUI O LINK DA IMAGEM DO CANAL" group-title="teste",teste 
-http://svrhost.club/live/ip1509/244255/3475.ts
-
-#EXTINF:-1 tvg-id="teste1" tvg-name="teste1" tvg-logo="COLAR AQUI O LINK DA IMAGEM DO CANAL" group-title="teste1",teste
-http://pfsv.io:80/live/5681151/64693/30227.ts
-
-
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",Megapix FHD
+http://dnsl.me:80/samuel/samuel2021/3722
+#EXTINF:0 tvg-id="ext" group-title="Channels",Megapix FHD [H265]
+http://dnsl.me:80/samuel/samuel2021/71075
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",Megapix HD
+http://dnsl.me:80/samuel/samuel2021/3721
+#EXTINF:0 tvg-id="ext" group-title="Channels",Megapix HD [Alter]
+http://dnsl.me:80/samuel/samuel2021/64030
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX FHD
+http://dnsl.me:80/samuel/samuel2021/3719
+#EXTINF:0 tvg-id="ext" group-title="Channels",FX FHD [H265]
+http://dnsl.me:80/samuel/samuel2021/71052
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX HD
+http://dnsl.me:80/samuel/samuel2021/3720
+#EXTINF:0 tvg-id="ext" group-title="Channels",FX HD [Alter]
+http://dnsl.me:80/samuel/samuel2021/64029
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eu a Patroa e as Crianças
+http://dnsl.me:80/samuel/samuel2021/67036
+#EXTINF:0 tvg-id="ext" group-title="Channels",dragon ball super
+http://dnsl.me:80/samuel/samuel2021/66964
+#EXTINF:0 tvg-id="ext" group-title="Channels",DRAGON BALL Z SAGA CELL
+http://dnsl.me:80/samuel/samuel2021/67025
+#EXTINF:0 tvg-id="ext" group-title="Channels",DRAGON BALL Z SAGA FREEZA
+http://dnsl.me:80/samuel/samuel2021/67026
+#EXTINF:0 tvg-id="ext" group-title="Channels",DRAGON BALL Z SAGA SAYAJINS
+http://dnsl.me:80/samuel/samuel2021/67027
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",Discovery Turbo FHD
+http://dnsl.me:80/samuel/samuel2021/4118
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Turbo FHD [H265]
+http://dnsl.me:80/samuel/samuel2021/71039
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",Discovery Turbo HD
+http://dnsl.me:80/samuel/samuel2021/4120
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Turbo HD [Alter]
+http://dnsl.me:80/samuel/samuel2021/63980
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",Combate FHD
+http://dnsl.me:80/samuel/samuel2021/3669
+#EXTINF:0 tvg-id="ext" group-title="Channels",Combate FHD [H265]
+http://dnsl.me:80/samuel/samuel2021/71031
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",Combate HD
+http://dnsl.me:80/samuel/samuel2021/3670
+#EXTINF:0 tvg-id="ext" group-title="Channels",Combate HD [Alter]
+http://dnsl.me:80/samuel/samuel2021/64069
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network FHD
+http://dnsl.me:80/samuel/samuel2021/3860
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Network FHD [H265]
+http://dnsl.me:80/samuel/samuel2021/71028
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network HD
+http://dnsl.me:80/samuel/samuel2021/3861
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM FHD
+http://dnsl.me:80/samuel/samuel2021/49284
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM HD
+http://dnsl.me:80/samuel/samuel2021/25663
+#EXTINF:0 tvg-id="ext" group-title="Channels",TCM HD [Alter]
+http://dnsl.me:80/samuel/samuel2021/64042
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM SD
+http://dnsl.me:80/samuel/samuel2021/3738
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",Telecine Action FHD
+http://dnsl.me:80/samuel/samuel2021/3895
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Action FHD [H265]
+http://dnsl.me:80/samuel/samuel2021/71106
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Action FHD [LEG]
+http://dnsl.me:80/samuel/samuel2021/71154
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",Telecine Action HD
+http://dnsl.me:80/samuel/samuel2021/3896
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Action HD [Alter]
+http://dnsl.me:80/samuel/samuel2021/64045
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Action HD [LEG]
+http://dnsl.me:80/samuel/samuel2021/71155
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",Telecine Action SD
+http://dnsl.me:80/samuel/samuel2021/4076
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="Channels",Telecine Cult FHD
+http://dnsl.me:80/samuel/samuel2021/3897
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Cult FHD [H265]
+http://dnsl.me:80/samuel/samuel2021/71107
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Cult FHD [LEG]
+http://dnsl.me:80/samuel/samuel2021/71156
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="Channels",Telecine Cult HD
+http://dnsl.me:80/samuel/samuel2021/3898
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Cult HD [Alter]
+http://dnsl.me:80/samuel/samuel2021/64046
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Cult HD [LEG]
+http://dnsl.me:80/samuel/samuel2021/71157
+#EXTINF:0 tvg-id="Tccult.br" group-title="Channels",Telecine Cult SD
+http://dnsl.me:80/samuel/samuel2021/4078
+#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="Channels",Telecine Fun FHD
+http://dnsl.me:80/samuel/samuel2021/3899
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Fun FHD [H265]
+http://dnsl.me:80/samuel/samuel2021/71108
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Fun FHD [LEG]
+http://dnsl.me:80/samuel/samuel2021/71158
+#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="Channels",Telecine Fun HD
+http://dnsl.me:80/samuel/samuel2021/3900
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Fun HD [Alter]
+http://dnsl.me:80/samuel/samuel2021/64047
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Fun HD [LEG]
+http://dnsl.me:80/samuel/samuel2021/71159
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Channels",Telecine Fun SD
+http://dnsl.me:80/samuel/samuel2021/4080
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",Telecine Pipoca FHD
+http://dnsl.me:80/samuel/samuel2021/3901
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Pipoca FHD [H265]
+http://dnsl.me:80/samuel/samuel2021/71109
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Pipoca FHD [LEG]
+http://dnsl.me:80/samuel/samuel2021/71160
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",Telecine Pipoca HD
+http://dnsl.me:80/samuel/samuel2021/3902
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Pipoca HD [Alter]
+http://dnsl.me:80/samuel/samuel2021/64048
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Pipoca HD [LEG]
+http://dnsl.me:80/samuel/samuel2021/71161
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",Telecine Pipoca SD
+http://dnsl.me:80/samuel/samuel2021/4082
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",Telecine Premium FHD
+http://dnsl.me:80/samuel/samuel2021/3903
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Premium FHD [H265]
+http://dnsl.me:80/samuel/samuel2021/71110
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Premium FHD [LEG]
+http://dnsl.me:80/samuel/samuel2021/71162
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",Telecine Premium HD
+http://dnsl.me:80/samuel/samuel2021/3904
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Premium HD [Alter]
+http://dnsl.me:80/samuel/samuel2021/64049
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Premium HD [LEG]
+http://dnsl.me:80/samuel/samuel2021/71163
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",Telecine Premium SD
+http://dnsl.me:80/samuel/samuel2021/4596
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="Channels",Telecine Touch FHD
+http://dnsl.me:80/samuel/samuel2021/3905
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Touch FHD [H265]
+http://dnsl.me:80/samuel/samuel2021/71111
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Touch FHD [LEG]
+http://dnsl.me:80/samuel/samuel2021/71164
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="Channels",Telecine Touch HD
+http://dnsl.me:80/samuel/samuel2021/3906
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Touch HD [Alter]
+http://dnsl.me:80/samuel/samuel2021/64050
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Touch HD [LEG]
+http://dnsl.me:80/samuel/samuel2021/71165
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Channels",Telecine Touch SD
+http://dnsl.me:80/samuel/samuel2021/4578
+#EXTINF:0 tvg-id="ext" group-title="Channels",Todo Mundo Odeia o Cris
+http://dnsl.me:80/samuel/samuel2021/67042
 
 
